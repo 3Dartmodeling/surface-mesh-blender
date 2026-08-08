@@ -1,8 +1,8 @@
 # surface-mesh-blender
 Surface Mesh — Blender Addon
 Author: 3Dartmodeling  
-Version: 1.0.2  
-Blender: 4.0+ (tested on 5.2)  
+Version: 1.0.3  
+Blender: 4.5+ (tested on 5.2)  
 Category: Add Mesh
 ---
 What is Surface Mesh?
